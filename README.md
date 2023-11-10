@@ -3,6 +3,7 @@
 
 ### My name is [Zhanna](https://www.linkedin.com/in/zhanna-ovcharenko/), I'm Software QA Automation Engineer from Santa Clara, CA  <img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width = "70">
 
+<div align="center">    
 ⚡ Languages & Tools:
 <div>
   
