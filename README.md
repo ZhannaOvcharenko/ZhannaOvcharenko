@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 <div align="right" >
 
+<div align="center">
 ### My name is [Zhanna](https://www.linkedin.com/in/zhanna-ovcharenko/), I'm Software QA Automation Engineer from Santa Clara, CA  <img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width = "70">
+<div>
 
 <div align="center">    
 ⚡ Languages & Tools:
