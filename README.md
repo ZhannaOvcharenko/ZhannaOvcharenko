@@ -15,7 +15,10 @@
 </div>  
 <br>
 
-⚡ Tools I use: 
+<div align="center">    
+⚡ Languages & Tools:
+<div>
+  
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35"/>&nbsp;
 <img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
