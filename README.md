@@ -6,10 +6,9 @@
 </div>
 
 ---
-<div id = "header" align = "center">
+
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-</div>
   
 <div id = "header" align = "center">
   <img src = "https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif"/>
