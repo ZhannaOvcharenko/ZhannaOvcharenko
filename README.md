@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <h3>I'm Software QA Engineer with 5+ years experience in QA Automation and Manual Testing </h3>
+  <h3>I'm Software QA Engineer with experience in QA Automation and Manual Testing </h3>
 </div><br>
   
 <div id = "header" align = "center">
