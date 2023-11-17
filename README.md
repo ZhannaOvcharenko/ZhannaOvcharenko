@@ -44,7 +44,9 @@
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
+
 <a href="https://www.linkedin.com/in/zhanna-ovcharenko/" target="blank" >
-  
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <div align="center">
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </div>
 </a>
