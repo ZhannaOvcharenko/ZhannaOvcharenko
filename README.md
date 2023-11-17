@@ -9,9 +9,10 @@
 
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-<img src = "https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif"/>
+<div id = "header" align = "center">
+  <img src = "https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif"/>
+</div>  
 <br>
-
 
 ⚡ Tools I use: 
 <div>
