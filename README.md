@@ -9,7 +9,7 @@
 
 ## QA Software Engineer 
 #### with experience in both Automation and Manual Testing
-<[img align="right" width="610" height="512" src= "images/Artwork.jpg"](https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif)/>
+<img align="right" width="610" height="512" src= "images/Artwork.jpg"/>
 <br>
 
 
